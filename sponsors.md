@@ -1,0 +1,20 @@
+Thank you to the sponsors, without which the
+[London Perl Workshop](http://act.yapc.eu/lpw2017/) would not be possible:
+[Eligo](https://eligo.co.uk),
+[Perl Careers](https://perl.careers),
+[CV-Library](https://www.cv-library.co.uk),
+[WCN](https://www.wcn.uk),
+[Adzuna](https://www.adzuna.co.uk),
+[Bytemark](https://www.bytemark.co.uk),
+[OpusVL](http://opusvl.com),
+[Booking.com](https://www.booking.com),
+[SureVoIP](https://www.surevoip.co.uk),
+[Magnum Solutions](https://mag-sol.com),
+[Perl 6](https://perl6.org),
+[Geekuni](https://www.geekuni.com),
+[University of Westminster](https://www.westminster.ac.uk),
+[Cogendo](https://www.cogendo.com),
+[Science Photo Library](http://www.sciencephoto.com),
+[The Enlightened Perl Organisation](https://ww2.enlightenedperl.org),
+[Evozon](https://www.evozon.com),
+[O'Reilly](https://www.oreilly.com).
